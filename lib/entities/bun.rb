@@ -1,0 +1,1 @@
+Bun = Struct.new(:name)
